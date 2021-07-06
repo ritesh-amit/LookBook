@@ -1,16 +1,5 @@
-# intern
+# LookBook Task
+Screenshots of the App:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3d8a52c3-8daa-4a08-a5ea-fe0d3311c758](https://user-images.githubusercontent.com/68714598/124669268-bae37f00-decf-11eb-93a1-967e370ab676.jpg)
+![73a022e4-5c6e-4101-b1dc-81395202b2bf](https://user-images.githubusercontent.com/68714598/124669272-bcad4280-decf-11eb-8512-f0233aa90935.jpg)
